@@ -1,6 +1,6 @@
 import random
 
-abc = 'qwertyuiopasdfghjklzxcvbnm'
+abc = "qwertyuiopasdfghjklzxcvbnm"
 ABC = 'QWERTYUIOPASDFGHJKLZXCVBNM'
 characters = '`!@#$%^&*(){}[]/.,<>?";_-:'
 numbers = '1234567890'
